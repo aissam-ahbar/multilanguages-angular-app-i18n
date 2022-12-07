@@ -1,4 +1,4 @@
-# Make multi-languages application with ngx-translate [![Build Status](https://travis-ci.org/ngx-translate/core.svg?branch=master)](https://codingjobs-77e8f.web.app/jobs/2)[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&type=6e&v=0.0.1&x2=0)](https://codingjobs-77e8f.web.app/jobs/2)
+# Make Angular Application multi-languages with i18n ngx-translate translate pipe [![Build Status](https://travis-ci.org/ngx-translate/core.svg?branch=master)](https://codingjobs-77e8f.web.app/jobs/2)[![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&type=6e&v=0.0.1&x2=0)](https://codingjobs-77e8f.web.app/jobs/2)
 
 This app is a demo showing how to perform translation on your angular app in many languages. We use the internationalization (i18n) library for Angular.
 
