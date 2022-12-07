@@ -16,6 +16,7 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
   imports: [
     BrowserModule,
     HttpClientModule,
+    // Import translate module and factory
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
@@ -24,7 +25,6 @@ export function HttpLoaderFactory(httpClient: HttpClient) {
       },
     }),
   ],
-  providers: [],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
